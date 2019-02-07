@@ -3,8 +3,9 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------//
 // (Quantum Bit) is created by NASA contracting company Inov8ive Technologies and is
 // intended to be the first Quantum Distributed Ledger which will send current cryptocurrency
-// data through time, creating a Past, Present and Future Quantum Distributed Ledger.
-// link Kiteletter.com
+// data through time, creating a Past, Present and Future Quantum Distributed Ledger. It is
+// replication of Enki's myth of coming from the future to mine Ether the first life force
+// link Inov8ive.org Kiteletter.com
 // ----------------------------------------------------------------------------
 
 
