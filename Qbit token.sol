@@ -112,8 +112,8 @@ contract QuantumBitToken is ERC20Interface, Owned, SafeMath {
         name = "Quantum Bit";
         decimals = 18;
         _totalSupply = 7000000000;
-        balances[0x6090b8d78ECAD75fb0973a407f526011792F4FC4] = _totalSupply;
-        emit Transfer(address(0), 0x6090b8d78ECAD75fb0973a407f526011792F4FC4, _totalSupply);
+        balances[0x2d15D326b8a5C88df3EB55E5D9aA36228392dA2f] = _totalSupply;
+        emit Transfer(address(0), 0x2d15D326b8a5C88df3EB55E5D9aA36228392dA2f, _totalSupply);
     }
 
 
